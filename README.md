@@ -1,7 +1,7 @@
 ![tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280 (2)](https://user-images.githubusercontent.com/99055585/202099303-f3d26b63-5b4e-4411-a525-337800d1b102.gif)
 
 <h1 align="center">Hi 👋, I'm José María Padilla Fernández</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36F7D8&width=435&lines=clxsrdev" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36F7D8&width=435&lines=clxsrdev" alt="Typing SVG" /></a>
 <h3 align="center">A developer student and software engineer looking for new job opportunities</h3>
 
 - 🔭 I’m currently studing at **Universidad Autonoma de Chiapas**
