@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studing at **Universidad Autonoma de Chiapas**
 
-- 🌱 I’m currently learning **TypeScript, Microservices**
+- 🌱 I’m currently learning **TypeScript, Microservices, React**
 
 - 💬 Ask me about **Java, Swift, JS, C**
 
