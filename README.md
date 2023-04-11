@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frameworks, API's, Cloud Computing**
 
-- 💬 Ask me about **Java, C, JS, CSS**
+- 💬 Ask me about **Java, Swift, JS, C**
 
 - 📫 How to reach me **jose.padilla42@unach.mx**
 
