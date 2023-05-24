@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently studing at **Universidad Autonoma de Chiapas**
 
+- 🍎 WWDC23 **Swift Student Challenge Winner**
+
 - 🌱 I’m currently learning **TypeScript, Microservices, React**
 
 - 💬 Ask me about **Java, Swift, JS, C**
