@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm José María Padilla Fernández</h1>
 <h3 align="center">A developer student seeking for new job opportunities</h3>
 
-- 🔭 I’m currently studing at **Universidad Autonoma de Chiapas**
-
 - 🍎 WWDC23 **Swift Student Challenge Winner**
+
+- 🔭 I’m currently studing at **Universidad Autonoma de Chiapas**
 
 - 🌱 I’m currently learning **TypeScript, Microservices, React**
 
