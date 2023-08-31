@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp" width="30px"/> Hi! I'm $\normalsize\color{rgb(238,183,27)}{\textsf{Chema Padilla Fdez}$</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp" width="30px"/> Hi! I'm $\normalsize\color{rgb(238,183,27)}{\textsf{Chema Padilla Fdez}}$</h1>
 <h3 align="center">A developer student seeking for new job opportunities</h3>
 <p align="center">🍎 WWDC23 Swift Student Challenge Winner</p>
 <p align="center">⭐ I’m currently studing at Universidad Autonoma de Chiapas.</p>
