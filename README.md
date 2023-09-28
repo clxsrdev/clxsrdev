@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99055585/265238379-6fb90a07-f04f-409a-9e5c-7247ca584f84.gif" width="30px"/> Hi! I'm $\normalsize\color{rgb(238,183,27)}{\textsf{Chema Padilla Fdez}}$</h1>
+<h1 align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99055585/265238379-6fb90a07-f04f-409a-9e5c-7247ca584f84.gif" width="30px"/> Hi! I'm Chema Padilla Fdez</h1>
 <h3 align="center">A developer student seeking for new job opportunities</h3>
 <p align="center">🍎 WWDC23 Swift Student Challenge Winner</p>
 <p align="center">⭐ I’m currently studing at Universidad Autonoma de Chiapas.</p>
