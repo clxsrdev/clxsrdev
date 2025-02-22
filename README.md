@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer</h3>
 <p align="center">🍎 Two-times (WWDC23-24) Swift Student Challenge Winner</p>
 
-<p align="center">⭐ I’m currently studing at Universidad Autonoma de Chiapas.</p>
+<p align="center">⭐ I studied at Universidad Autonoma de Chiapas.</p>
 <br>
 <h2 align="center">📌 Skills</h2>
 <div align="center">
