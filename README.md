@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi! I'm Chema Padilla Fdez</h1>
-<h3 align="center">A software engineer student seeking for new job opportunities</h3>
+<h3 align="center">A software engineer</h3>
 <p align="center">🍎 Two-times (WWDC23-24) Swift Student Challenge Winner</p>
 
 <p align="center">⭐ I’m currently studing at Universidad Autonoma de Chiapas.</p>
