@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi! I'm Jose Maria Padilla Fernandez</h1>
-<h3 align="center">Software Engineer | iOS & Frontend Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
 🏆 Two-time Swift Student Challenge Winner (2023 & 2024) <br>
