@@ -54,7 +54,7 @@ These are the technologies I’ve worked with across my projects, internships, a
 
 ## 🌍 Languages
 - **Spanish:** Native
-- **English:** Intermediate (B2) – Currently improving fluency through self-study and online courses.
+- **English:** Advanced (C1) – Currently improving fluency through self-study and online courses.
 
 ---
 
